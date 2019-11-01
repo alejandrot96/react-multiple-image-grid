@@ -33,4 +33,13 @@ yarn add react-multiple-image-grid
 ```
 import MultipleGridImages from 'react-multiple-image-grid'
 
-<MultipleGridImages images={[]}/>
+
+var images = [
+https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-1-img.png?raw=true,
+https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-1-img.png?raw=true,
+https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-1-img.png?raw=true,
+https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-1-img.png?raw=true
+];
+
+
+<MultipleGridImages images={images}/>
