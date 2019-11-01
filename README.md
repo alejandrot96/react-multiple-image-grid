@@ -21,7 +21,7 @@
 
 Run the following
 ```
-npm install react-multiple-image-grid
+npm install react-multiple-image-grid --save 
 ```
 or
 ```
