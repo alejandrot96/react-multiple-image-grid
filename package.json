@@ -1,0 +1,50 @@
+{
+  "name": "react-multiple-image-grid",
+  "version": "0.1.1",
+  "description": "react-multiple-image-grid",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "css",
+    "es",
+    "lib",
+    "umd"
+  ],
+  "scripts": {
+    "build": "nwb build-react-component --copy-files",
+    "clean": "nwb clean-module && nwb clean-demo",
+    "prepublishOnly": "npm run build",
+    "start": "nwb serve-react-demo",
+    "test": "nwb test-react",
+    "test:coverage": "nwb test-react --coverage",
+    "test:watch": "nwb test-react --server"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.1.2",
+    "@material-ui/icons": "^3.0.1",
+    "react-bootstrap": "^0.32.4",
+    "react-image-lightbox": "^5.0.0"
+  },
+  "peerDependencies": {
+    "react": "16.x"
+  },
+  "devDependencies": {
+    "nwb": "0.23.x",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "author": "deepsoumya",
+  "homepage": "https://github.com/soumyadeephalder/react-multiple-image-grid.git",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/LICENSE"
+    }
+  ],
+  "repository": "https://github.com/soumyadeephalder/react-multiple-image-grid.git",
+  "keywords": [
+    "react-js",
+    "react-images",
+    "react-multiple-image-grid"
+  ]
+}
