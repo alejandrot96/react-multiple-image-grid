@@ -1,6 +1,6 @@
 {
   "name": "react-multiple-image-grid",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "react-multiple-image-grid",
   "main": "lib/index.js",
   "module": "es/index.js",
