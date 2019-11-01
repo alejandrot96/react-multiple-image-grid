@@ -1,5 +1,12 @@
 # react-multiple-image-grid
 
+![Alt text](https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-1-img.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-2-img.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-3-img.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/soumyadeephalder/react-multiple-image-grid/master/demo/demo-5more-img.png?raw=true)
+
+
 ## Installation
 
 Run the following
