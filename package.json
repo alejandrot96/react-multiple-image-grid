@@ -1,6 +1,6 @@
 {
   "name": "react-multiple-image-grid",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "react-multiple-image-grid",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -35,6 +35,7 @@
   },
   "author": "deepsoumya",
   "homepage": "https://github.com/soumyadeephalder/react-multiple-image-grid.git",
+  "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
