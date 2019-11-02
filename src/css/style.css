@@ -5,6 +5,7 @@
   margin: auto;
   width: 100%;
   padding: 10px;
+  padding-bottom: 5px;
 }
 
 .grid-container .container {
@@ -25,7 +26,7 @@
 
 .height-one {
   width: 100%;
-  padding-top: 100%;
+  padding-top: 50%;
 }
 
 .height-two {
